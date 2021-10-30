@@ -9,7 +9,7 @@ The contents are specified as under:-
 **i**> 
 **data**:
 
-     > **Actual or Original**: as we were provided with initially
+     > Actual or Original: as we were provided with initially
      > **My Data**: generated images from all sorts of manipulations I performed - automating image cleaning, image augmentation, inverting binary inputs and noise injection to avoid overfitting issues.
 
 **ii**> 
