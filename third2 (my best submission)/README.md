@@ -1,4 +1,4 @@
-There are two folders (as per the format specified (in the contest) to us for submission):        
+- There are two folders (as per the format specified (in the contest) to us for submission):        
 
   &emsp; -> train (contains images for training the classifier)  
       &emsp;&emsp; -> 10 folders namely: i, ii, ....ix, x.         
