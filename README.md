@@ -32,9 +32,9 @@ We were provided with the **_Roman MNIST Dataset_** to filter it for better perf
 
 * magnification and demagnification
 
-> shearing(along both x and y axes)
+* shearing(along both x and y axes)
 
-> discriminatory distribution of data (intentional) for different labels 
+* discriminatory distribution of data (intentional) for different labels 
 (more training images for conflicting types and less for easily distinguishable ones)
 
-> a bit of heat and trial towards the end with the train vs validation sets' size ratio.
+* a bit of heat and trial towards the end with the train vs validation sets' size ratio.
