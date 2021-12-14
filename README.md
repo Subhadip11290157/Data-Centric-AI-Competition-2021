@@ -18,7 +18,7 @@ We were provided with the **_Roman MNIST Dataset_** to filter it for better perf
 # Techniques applied on images:- 
 > cropping
 > rotation (by mild acute angles)
-* flipping 
+> flipping 
     * (Horizontal - specific to I, II, III, V and X - which are invariant under horizontal flip)
     * (Vertical - specific to I, II, III, and X - which are invariant under vertical flip)
   
