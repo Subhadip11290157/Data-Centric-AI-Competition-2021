@@ -16,21 +16,21 @@ We were provided with the **_Roman MNIST Dataset_** to filter it for better perf
 >   the submission that took me to **133rd** on the leaderboard. 
 
 # Techniques applied on images:- 
-> cropping
-> rotation (by mild acute angles)
-> flipping 
+* cropping
+* rotation (by mild acute angles)
+* flipping 
     * (Horizontal - specific to I, II, III, V and X - which are invariant under horizontal flip)
     * (Vertical - specific to I, II, III, and X - which are invariant under vertical flip)
   
-> inverse binary thresholding
+* inverse binary thresholding
 
-> dealing with class imbalance issues
+* dealing with class imbalance issues
 
-> injecting salt and pepper noise (with varying %ages and in seperate customized clusters)
+* injecting salt and pepper noise (with varying %ages and in seperate customized clusters)
 
-> applying Gaussian blur
+* applying Gaussian blur
 
-> magnification and demagnification
+* magnification and demagnification
 
 > shearing(along both x and y axes)
 
